@@ -1,0 +1,56 @@
+.container-h{
+    margin-top: 10%;
+    
+    
+
+}
+.small-container{
+    margin-top: 2rem;
+}
+.search-container{
+    margin-top: 4rem;
+}
+.Big-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4rem;
+    font-family: 700;
+    
+}
+.small-text{
+    font-size: 1rem;
+    font-family: 400;
+    
+}
+.search{
+   width: 40%;
+   border: solid 1px cornsilk;
+   padding: 10px;
+   border-radius: 2rem;
+
+}
+.button-h{
+    width: 8rem;
+    padding: 10px;
+    border: none;
+    margin-left: 10px;
+    background-color: crimson;
+    border-radius: 2rem;
+}
+.logo{
+    margin-top: 2%;
+}
+.logo-pp{
+    font-size: 3rem;
+    font-family: 900;
+    margin-left: -65%;
+    margin-top: 20px;
+    background-color: black;
+}
+.tag-k{
+    margin-top: -49px;
+    margin-left: 26rem;
+    background-color: gray;
+    width: 50px;
+    border: none;
+    border-radius: 0.2rem;
+}
